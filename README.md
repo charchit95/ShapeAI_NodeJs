@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9899a15f-a0c8-4443-8af6-7c6c9d377f20/deploy-status)](https://app.netlify.com/sites/loving-golick-7e878f/deploys)
 # SHAPEAI WEB DEV WITH NODEJS BOOTCAMP
 Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
 </b>.
